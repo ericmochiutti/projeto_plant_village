@@ -7,31 +7,13 @@ Este projeto foca no desenvolvimento e treinamento de um modelo de deep learning
 
 ---
 
-### 📌 Tabela de Conteúdos
-
-- [🚀 Visão Geral](#🚀-visão-geral)
-- [✨ Funcionalidades](#✨-funcionalidades)
-- [🛠️ Tecnologias Utilizadas](#🛠️-tecnologias-utilizadas)
-- [📋 Pré-requisitos](#📋-pré-requisitos)
-- [🚀 Como Usar o UV e Executar o Projeto](#🚀-como-usar-o-uv-e-executar-o-projeto)
-- [📁 Estrutura do Projeto](#📁-estrutura-do-projeto)
-- [🤝 Como Contribuir](#🤝-como-contribuir)
-- [👨‍💻 Autor](#👨‍💻-autor)
-- [🌿 Plant Disease Detection with TensorFlow and Keras](#🌿-plant-disease-detection-with-tensorflow-and-keras)
-- [1. Project Overview](#1-project-overview)
-- [2. Setup and Installation](#2-setup-and-installation)
-- [3. Running the Project](#3-running-the-project)
-- [4. Project Structure (DD)](#4-project-structure-dd)
-
----
-
-### 🚀 Visão Geral
+### Visão Geral
 
 Este projeto tem como objetivo explorar e aplicar conceitos avançados de computação através de experimentos práticos e análises de dados. Através de **notebooks Jupyter**, são realizadas análises exploratórias, desenvolvimento de modelos e visualizações interativas, permitindo um aprendizado *hands-on* sobre as tecnologias estudadas na disciplina.
 
 ---
 
-### ✨ Funcionalidades
+### Funcionalidades
 
 - **Análise de Dados:** Processamento e visualização de dados utilizando `pandas` e `matplotlib`.
 - **Experimentação Interativa:** Desenvolvimento e teste de hipóteses em notebooks Jupyter.
@@ -40,7 +22,7 @@ Este projeto tem como objetivo explorar e aplicar conceitos avançados de comput
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - **Linguagem:** Python
 - **Gerenciamento de Projetos:** [uv](https://astral.sh/uv)
@@ -55,7 +37,7 @@ Este projeto tem como objetivo explorar e aplicar conceitos avançados de comput
 
 ---
 
-### 📋 Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, você precisa ter o **uv** instalado em sua máquina. É uma ferramenta extremamente rápida para gerenciar projetos Python, escrita em Rust.
 
@@ -64,7 +46,7 @@ Antes de começar, você precisa ter o **uv** instalado em sua máquina. É uma 
 curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
 ```
 
-# 🚀 Como Usar o UV e Executar o Projeto
+# Como Usar o UV e Executar o Projeto
 
 Siga estes passos para configurar o ambiente e executar os notebooks.
 
