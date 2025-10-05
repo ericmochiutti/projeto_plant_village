@@ -57,6 +57,11 @@ Siga estes passos para configurar o ambiente e executar os notebooks.
 ```bash
 git clone https://github.com/ericmochiutti/projeto_topicos.git
 cd projeto_topicos
+```
+
+## 1.1 Criar ambiente virtual e instalar dependencias com UV
+
+```bash
 uv sync
 ```
 
