@@ -75,11 +75,13 @@ A seção de **Detecção de Doenças de Plantas** requer o **PlantVillage datas
 
 A estrutura de diretórios esperada deve ser:
 
+```bash
 projeto_topicos/
 ├── data/
-│ └── PlantVillage/
-│ ├── ... (todas as subpastas de classes de doenças)
+│   └── PlantVillage/
+│       ├── ... (todas as subpastas de classes de doenças)
 └── ...
+```
 
 ### Estrutura do Projeto
 
